@@ -1,0 +1,91 @@
+@media(max-width:575px){
+    .navbar-collapse{
+        display: none;
+    }
+    .phon{
+        display: none;
+    }
+    .a {
+        color: #0b8ed6;
+    }
+    .nav-link:focus, .nav-link:hover{
+        color: #fff;
+    }
+    .btn-open:after{
+        color: #0b8ed6;
+    }
+    .content{
+        text-align: center;
+    }
+    content h6{
+        font-size: 14px;
+    }
+    .content h1 {
+        font-size: 30px;
+        margin-top: 8px;
+        margin-bottom: 9px;
+    }
+    .content p{
+       font-size: 13px;
+    }
+    .icon-box{
+        margin-bottom: 30px;
+    }
+    .device1 h4{
+        text-align: center;
+        font-size: 13px;
+    }
+    .device1 h1{
+        text-align: center;
+        font-size: 29px;
+    }
+    .device1 span{
+        margin: auto;
+    }
+    .device1 p{
+        font-size: 15px;
+    }
+    .comment p{
+        display: none;
+    }
+    .cat{
+        width: 40%;
+    }
+    .comment h5{
+          font-size:15px;
+    }
+    .comment h6{
+        font-size: 13px;
+    }
+    .download h2 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .download h2 span{
+        font-size: 25px;
+    }
+    .footer-icon {
+        width: 65%;
+    }
+    .copyright h3{
+        font-size: 12px;
+    }
+    .buttan .btn-1{
+        font-size: 12px;
+    }
+    .buttan .btn-2{
+        font-size: 12px;
+    }
+    .responsiv h1 {
+        font-size: 29px;
+    }
+    .form-part form input[type=submit] {
+        font-size: 12px;
+    }
+    .footer-icon ul li a {
+        font-size: 19px;
+    }
+    .menu li a{
+        font-size: 16px;
+    }
+}
